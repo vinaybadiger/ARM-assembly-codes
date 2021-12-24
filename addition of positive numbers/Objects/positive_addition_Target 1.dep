@@ -1,0 +1,2 @@
+Dependencies for Project 'positive_addition', Target 'Target 1': (DO NOT MODIFY !)
+F (.\add_pos.s)(0x61C58950)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525"--list .\listings\add_pos.lst --xref -o .\objects\add_pos.o --depend .\objects\add_pos.d)
